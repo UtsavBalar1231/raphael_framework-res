@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_device_default">@color/accent_device_default_dark</color>
+    <color name="chooser_gradient_background">@color/loading_gradient_background_color_dark</color>
+    <color name="chooser_gradient_highlight">@color/loading_gradient_highlight_color_dark</color>
+    <color name="chooser_row_divider">@color/list_divider_color_dark</color>
+    <color name="media_notification_actions_bg_color">#4d000000</color>
+    <color name="media_notification_app_name_text_color">#7fffffff</color>
+    <color name="navigationbar_color">@color/black</color>
+    <color name="notification_default_color_dark">#ddffffff</color>
+    <color name="notification_header_text_color">#b3ffffff</color>
+    <color name="notification_material_background_color">@color/black</color>
+    <color name="notification_miui_action_text_color_n">#a6ffffff</color>
+    <color name="notification_miui_action_text_color_p">#bfffffff</color>
+    <color name="notification_primary_text_color_dark">#ddffffff</color>
+    <color name="notification_progress_horizontal_bg_color">#1affffff</color>
+    <color name="notification_progress_horizontal_progress_color">#ff0077ff</color>
+    <color name="notification_secondary_text_color_dark">#b2ffffff</color>
+    <color name="notification_time_color">#33ffffff</color>
+    <color name="statusbar_content">#59ffffff</color>
+    <color name="statusbar_content_title">#e6ffffff</color>
+    <color name="toast_text_color">#ccffffff</color>
+</resources>

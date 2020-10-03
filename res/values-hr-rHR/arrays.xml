@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Početna</item>
+        <item>Posao</item>
+        <item>Ostalo</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Posao</item>
+        <item>Ostalo</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Početna</item>
+        <item>Mobilni</item>
+        <item>Posao</item>
+        <item>Službeni faks</item>
+        <item>Faks kod kuće</item>
+        <item>Dojavljivač</item>
+        <item>Ostalo</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Početna</item>
+        <item>Posao</item>
+        <item>Ostalo</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Pokušajte ponovno</item>
+        <item></item>
+        <item></item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item></item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item>Prebrzo! Ne mogu prepoznati otisak prsta</item>
+        <item>Pomaknite malo prst i pokušajte ponovno</item>
+        <item>Podignite prst i ponovno ga stavite natrag na skener</item>
+        <item>Držite prst malo duže na skeneru</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Pomaknite prst lagano</item>
+        <item>Ovaj otisak prsta je dodan, koristite drugi prst</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Početna</item>
+        <item>Posao</item>
+        <item>Ostalo</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Da biste telefonirali i slali pozive putem WLAN-a, morate tražiti od mobilnog operatera da vam postavi tu uslugu. Zatim ponovo uključite WLAN pozive u Postavkama.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Registrirajte se kod mobilnog operatera</item>
+    </string-array>
+</resources>

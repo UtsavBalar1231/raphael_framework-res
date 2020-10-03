@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Домашня</item>
+        <item>Робоча</item>
+        <item>Інша</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Робоча</item>
+        <item>Інша</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Домашній</item>
+        <item>Мобільний</item>
+        <item>Робочий</item>
+        <item>Робочий факс</item>
+        <item>Домашній факс</item>
+        <item>Пейджер</item>
+        <item>Інший</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Домашня</item>
+        <item>Робоча</item>
+        <item>Інша</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Домашня</item>
+        <item>Робоча</item>
+        <item>Інша</item>
+        <item>Вибрати</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>55750449</item>
+        <item>37621136</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>2</item>
+    </integer-array>
+    <string-array name="network_switch_type_name">
+        <item>мобільний інтернет</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>"Щоб здійснювати виклики та надсилати повідомлення по Wi-Fi, необхідно спочатку звернутися до оператора зв'язку та підключити цю послугу. Після цього Ви зможете знову обрати цей параметр у налаштуваннях."</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Вкажіть оператора та зареєструйтеся</item>
+    </string-array>
+</resources>

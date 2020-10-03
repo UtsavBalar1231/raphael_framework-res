@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_button_instructional_text">Aby przełączać funkcje, naciśnij i przytrzymaj przycisk ułatwień dostępu.</string>
+    <string name="accessibility_button_prompt_text">Wybierz funkcję używaną po kliknięciu przycisku ułatwień dostępu:</string>
+    <string name="accessibility_gesture_3finger_instructional_text">Aby przełączyć funkcje, przesuń trzema palcami w górę i przytrzymaj.</string>
+    <string name="accessibility_gesture_3finger_prompt_text">Wybierz funkcję, której chcesz używać w przypadku gestu ułatwień dostępu (przesunięcie trzema palcami w górę od dołu ekranu):</string>
+    <string name="accessibility_gesture_instructional_text">Aby przełączać funkcje, przesuń dwoma palcami w górę i przytrzymaj.</string>
+    <string name="accessibility_gesture_prompt_text">Wybierz funkcję, której chcesz używać w przypadku gestu ułatwień dostępu (przesunięcie dwoma palcami w górę od dołu ekranu):</string>
+    <string name="accessibility_shortcut_disabling_service">Przytrzymano klawisze głośności. Usługa %1$s została wyłączona.</string>
+    <string name="accessibility_shortcut_enabling_service">Przytrzymano klawisze głośności. Usługa %1$s została włączona.</string>
+    <string name="accessibility_shortcut_spoken_feedback">Naciśnij i przytrzymaj oba przyciski głośności przez trzy sekundy, by użyć usługi %1$s</string>
+    <string name="accessibility_shortcut_toogle_warning">Gdy skrót jest włączony, jednoczesne naciskanie przez trzy sekundy obu przycisków głośności uruchamia funkcję ułatwień dostępu.</string>
+    <string name="battery_saver_description">"Aby wydłużyć czas pracy na baterii, Oszczędzanie baterii:
+
+•włącza tryb ciemny,
+•wyłącza lub ogranicza aktywność w tle, niektóre efekty wizualne oraz inne funkcje, np. „OK Google”."</string>
+    <string name="battery_saver_description_with_learn_more">"\"Aby wydłużyć czas pracy na baterii, Oszczędzanie baterii:
+
+•włącza tryb ciemny,
+•wyłącza lub ogranicza aktywność w tle, niektóre efekty wizualne oraz inne funkcje, np. „OK Google”.
+
+\"&lt;annotation id=\"url\">Więcej informacji&lt;/annotation>"</string>
+    <string name="chooser_no_direct_share_targets">Brak polecanych osób, którym możesz udostępniać</string>
+    <string name="global_action_restart">Uruchom ponownie</string>
+    <string name="lock_to_app_description">"Przypinanie ekranu blokuje wyświetlacz w pojedynczym widoku.
+
+Aby go odpiąć, przytrzymaj jednocześnie przyciski Home i Zasilania."</string>
+    <string name="lock_to_app_description_accessible">"Przypinanie ekranu blokuje wyświetlacz w pojedynczym widoku.
+
+Aby go odpiąć, przytrzymaj jednocześnie przyciski Home i Zasilania."</string>
+    <string name="lock_to_app_toast">Aby odpiąć ten ekran, przytrzymaj jednocześnie przyciski Home i Zasilania.</string>
+    <string name="lock_to_app_toast_accessible">Aby odpiąć ten ekran, przytrzymaj jednocześnie przyciski Home i Zasilania.</string>
+    <string name="permdesc_accessBackgroundLocation">Aplikacja ma dostęp do lokalizacji w dowolnym momencie, nawet kiedy nie jest używana.</string>
+    <string name="permdesc_accessCoarseLocation">Aplikacja ma dostęp do przybliżonej lokalizacji z usług lokalizacyjnych, kiedy jest używana. Aby aplikacja mogła używać lokalizacji, musisz mieć na urządzeniu włączone usługi lokalizacyjne.</string>
+    <string name="permdesc_accessFineLocation">Aplikacja ma dostęp do dokładnej lokalizacji z usług lokalizacyjnych, kiedy jest używana. Aby aplikacja mogła używać lokalizacji, musisz mieć na urządzeniu włączone usługi lokalizacyjne. Może to zwiększyć wykorzystanie baterii.</string>
+    <string name="permdesc_readContacts">Pozwala aplikacji odczytywać dane Twoich kontaktów zapisane na telefonie. Aplikacje będą również miały dostęp do kont na telefonie, na których utworzono kontakty. Może to obejmować konta utworzone przez zainstalowane aplikacje. Aplikacje z tymi uprawnieniami mogą zapisywać dane kontaktów, a złośliwe aplikacje mogą je udostępniać bez Twojej wiedzy.</string>
+    <string name="permgrouplab_storage">Pliki i multimedia</string>
+    <string name="permlab_accessCoarseLocation">dostęp do przybliżonej lokalizacji tylko na pierwszym planie</string>
+    <string name="tethered_notification_message">Dotknij, aby skonfigurować.</string>
+    <string name="tethered_notification_title">Tethering bądź hotspot aktywny</string>
+    <string name="usb_unsupported_audio_accessory_message">Podłączone urządzenie nie jest zgodne z tym telefonem. Kliknij, by dowiedzieć się więcej.</string>
+    <string name="usb_unsupported_audio_accessory_title">Wykryto analogowe urządzenie audio</string>
+    <string name="volume_icon_description_bluetooth">Głośność Bluetooth</string>
+    <string name="volume_icon_description_incall">Głośność w czasie połączenia</string>
+    <string name="volume_icon_description_media">Głośność multimediów</string>
+    <string name="volume_icon_description_notification">Głośność powiadomień</string>
+    <string name="volume_icon_description_ringer">Głośność dzwonka</string>
+</resources>

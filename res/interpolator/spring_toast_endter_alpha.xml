@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<springInterpolator android:damping="0.99" android:response="0.67"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

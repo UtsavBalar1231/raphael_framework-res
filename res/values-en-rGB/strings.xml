@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="untitled">&lt;Untitled></string>
+    <string name="ThreeWCMmi">Three-way calling</string>
+    <string name="adb_active_notification_message">Touch to disable USB debugging.</string>
+    <string name="adb_active_notification_title">USB debugging connected</string>
+    <string name="aerr_application">Unfortunately, %1$s has stopped.</string>
+    <string name="aerr_process">Unfortunately, the process %1$s has stopped.</string>
+    <string name="android_start_title">Android is starting…</string>
+    <string name="android_upgrading_apk">Optimising app %1$d of %2$d.</string>
+    <string name="android_upgrading_fstrim">Optimising storage.</string>
+    <string name="android_upgrading_title">Android is upgrading…</string>
+    <string name="anr_activity_application">"%2$s isn't responding.
+
+Do you want to close it?"</string>
+    <string name="anr_activity_process">"Activity %1$s isn't responding.
+
+Do you want to close it?"</string>
+    <string name="anr_application_process">"%1$s isn't responding. Do you want to close it?"</string>
+    <string name="anr_process">"Process %1$s isn't responding.
+
+Do you want to close it?"</string>
+    <string name="app_running_notification_text">Touch for more information or to stop the app.</string>
+    <string name="autofill_postal_code">Postcode</string>
+    <string name="autofill_this_form">Auto-fill</string>
+    <string name="autofill_zip_code">Zip code</string>
+    <string name="badPin">The old PIN that you typed is incorrect.</string>
+    <string name="badPuk">"The PUK that you typed isn't correct."</string>
+    <string name="battery_saver_description">"To help improve battery life, battery saver reduces your device’s performance and limits vibration, location services and most background data. Email, messaging, and other apps that rely on syncing may not update unless you open them.
+
+Battery saver turns off automatically when your device is charging."</string>
+    <string name="bugreport_message">This will collect information about your current device state, to send as an email message. It will take a little time from starting the bug report until it is ready to be sent. Please be patient.</string>
+    <string name="bugreport_title">Take bug report</string>
+    <string name="candidates_style">&lt;u>candidates&lt;/u></string>
+    <string name="capability_desc_canRequestTouchExploration">Touched items will be spoken aloud and the screen can be explored using gestures.</string>
+    <string name="capability_desc_canRetrieveWindowContent">"Inspect the content of a window that you're interacting with."</string>
+    <string name="capability_title_canRequestFilterKeyEvents">Observe text that you type</string>
+    <string name="car_mode_disable_notification_message">Touch to exit car mode.</string>
+    <string name="car_mode_disable_notification_title">Car mode enabled</string>
+    <string name="clearDefaultHintMsg">Clear default in System settings > Apps > Downloaded.</string>
+    <string name="contentServiceSyncNotificationTitle">Sync</string>
+    <string name="contentServiceTooManyDeletesNotificationDesc">Too many %s deletions.</string>
+    <string name="create_contact_using">"Create contact
+ using %s"</string>
+    <string name="data_usage_limit_body">Data paused for rest of cycle</string>
+    <string name="data_usage_limit_snoozed_body">%s over specified limit.</string>
+    <string name="data_usage_mobile_limit_snoozed_title">Mobile data limit exceeded</string>
+    <string name="data_usage_restricted_body">Touch to remove restriction.</string>
+    <string name="data_usage_warning_body">Touch to view usage and settings.</string>
+    <string name="data_usage_warning_title">Data usage warning</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Wi-Fi data limit exceeded</string>
+    <string name="data_usage_wifi_limit_title">Wi-Fi data limit reached</string>
+    <string name="date_and_time" formatted="false">%-e %b %Y, %H:%M:%S</string>
+    <string name="dial_number_using">"Dial number
+ using %s"</string>
+    <string name="double_tap_toast">Tip: double-tap to zoom in and out.</string>
+    <string name="dump_heap_notification_detail">Heap dump has been collected; touch to share</string>
+    <string name="dump_heap_text">The process %1$s has exceeded its process memory limit of %2$s. A heap dump is available for you to share with its developer. Be careful: this heap dump can contain any of your personal information that the application has access to.</string>
+    <string name="error_message_change_not_allowed">"This change isn't allowed by your administrator"</string>
+    <string name="eventTypeCustom">Customised</string>
+    <string name="ext_media_checking_notification_message">Checking for errors</string>
+    <string name="ext_media_checking_notification_title">Preparing %s</string>
+    <string name="ext_media_init_action">Set-up</string>
+    <string name="ext_media_missing_message">Reinsert this device</string>
+    <string name="ext_media_move_failure_message">Data left at original location</string>
+    <string name="ext_media_move_failure_title">"Couldn't move data"</string>
+    <string name="ext_media_move_success_message">Data moved to %s</string>
+    <string name="ext_media_move_success_title">Move complete</string>
+    <string name="ext_media_nomedia_notification_title">Removed %s</string>
+    <string name="ext_media_unmountable_notification_title">Corrupted %s</string>
+    <string name="ext_media_unmounting_notification_message">"Don't remove"</string>
+    <string name="ext_media_unmounting_notification_title">Still ejecting %s…</string>
+    <string name="ext_media_unsupported_notification_message">This device doesn’t support this %s. Touch to set up in a supported format.</string>
+    <string name="factory_reset_message">"The admin app is missing components or corrupted, and can't be used. Your device will now be erased. Contact your administrator for assistance."</string>
+    <string name="fingerprint_error_canceled">Fingerprint operation cancelled.</string>
+    <string name="fingerprint_error_timeout">Fingerprint timeout reached. Try again.</string>
+    <string name="global_action_lockdown">Lock now</string>
+    <string name="global_actions_airplane_mode_off_status">Aeroplane mode is OFF</string>
+    <string name="global_actions_airplane_mode_on_status">Aeroplane mode is ON</string>
+    <string name="global_actions_toggle_airplane_mode">Aeroplane mode</string>
+    <string name="grant_credentials_permission_message_header">The following one or more applications request permission to access your account, now and in the future.</string>
+    <string name="hardware">Hardware</string>
+    <string name="heavy_weight_notification_detail">Touch to switch to app</string>
+    <string name="heavy_weight_switcher_text">Another app is already running that must be stopped before you can start a new one.</string>
+    <string name="heavy_weight_switcher_title">Switch apps?</string>
+    <string name="imProtocolNetMeeting">Net Meeting</string>
+    <string name="input_method_binding_label">Input Method</string>
+    <string name="keyguard_accessibility_add_widget">Add widget</string>
+    <string name="keyguard_label_text">To unlock, press Menu, then 0.</string>
+    <string name="keyguard_password_enter_pin_prompt">New PIN Code</string>
+    <string name="keyguard_password_entry_touch_hint">&lt;font size=17>Touch to type password&lt;/font></string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using an email account.
+
+ Try again in %d seconds."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN codes do not match</string>
+    <string name="kg_login_account_recovery_hint">"Forgot your username or password?
+Visit &lt;b>google.com/accounts/recovery&lt;/b>."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+
+Try again in %d seconds."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
+
+Try again in %d seconds."</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+
+Try again in %d seconds."</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lock_to_app_toast">To unpin this screen, touch and hold Back and Overview at the same time.</string>
+    <string name="lock_to_app_toast_accessible">To unpin this screen, touch and hold Overview.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"You have drawn your unlock pattern incorrectly %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your Google sign-in.
+
+ Please try again in %d seconds."</string>
+    <string name="lockscreen_forgot_pattern_button_text">Forgotten pattern?</string>
+    <string name="lockscreen_glogin_account_recovery_hint">"Forgot your username or password?
+Visit &lt;b>google.co.uk/accounts/recovery&lt;/b>."</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
+ Contact your wireless service provider for another SIM card."</string>
+    <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
+
+Try again in %d seconds."</string>
+    <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+
+Try again in %d seconds."</string>
+    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+
+Try again in %d seconds."</string>
+    <string name="lockscreen_transport_ffw_description">Fast-forward</string>
+    <string name="low_internal_storage_view_text_no_boot">Not enough storage for the system. Make sure that you have 250 MB of free space and restart.</string>
+    <string name="managed_profile_label">Work</string>
+    <string name="mediasize_na_index_3x5">Index Card 3 x 5</string>
+    <string name="mediasize_na_index_4x6">Index Card 4 x 6</string>
+    <string name="mediasize_na_index_5x8">Index Card 5 x 8</string>
+    <string name="mismatchPin">"The PINs that you typed don't match."</string>
+    <string name="mmiFdnError">Operation is restricted to fixed dialling numbers only.</string>
+    <string name="month_day_year" formatted="false">%-e %B %Y</string>
+    <string name="muted_by">Muted by %1$s</string>
+    <string name="new_app_action">Start %1$s</string>
+    <string name="new_app_description">Stop the old app without saving.</string>
+    <string name="no_permissions">No permission required</string>
+    <string name="no_recent_tasks">No recent apps</string>
+    <string name="notification_title">Sign-in error for %1$s</string>
+    <string name="number_picker_increment_scroll_mode">%s touch and hold.</string>
+    <string name="old_app_action">Return to %1$s</string>
+    <string name="org_name">Organisation:</string>
+    <string name="org_unit">Organisational unit:</string>
+    <string name="package_deleted_device_owner">Deleted by your administrator</string>
+    <string name="package_installed_device_owner">Installed by your administrator</string>
+    <string name="package_updated_device_owner">Updated by your administrator</string>
+    <string name="permdesc_accessCoarseLocation">Allows the app to get your approximate location. This location is derived by location services using network location sources such as mobile towers and Wi-Fi. These location services must be turned on and available to your device for the app to use them. Apps may use this to determine approximately where you are.</string>
+    <string name="permdesc_accessFineLocation">Allows the app to get your precise location using the Global Positioning System (GPS) or network location sources such as mobile towers and Wi-Fi. These location services must be turned on and available to your device for the app to use them. Apps may use this to determine where you are, and may consume additional battery power.</string>
+    <string name="permdesc_accessWifiState">Allows the app to view information about Wi-Fi networking, such as whether Wi-Fi is enabled and name of connected Wi-Fi devices.</string>
+    <string name="permdesc_bindCarrierServices">Allows the holder to bind to operator services. Should never be needed for normal apps.</string>
+    <string name="permdesc_bluetooth">Allows the app to view the configuration of the Bluetooth on the phone and to make and accept connections with paired devices.</string>
+    <string name="permdesc_bluetoothAdmin">Allows the app to configure the local Bluetooth phone and to discover and pair with remote devices.</string>
+    <string name="permdesc_camera">Allows the app to take pictures and videos with the camera. This permission allows the app to use the camera at any time without your confirmation.</string>
+    <string name="permdesc_changeWifiMulticastState">Allows the app to receive packets sent to all devices on a Wi-Fi network using multicast addresses, not just your phone. It uses more power than the non-multicast mode.</string>
+    <string name="permdesc_changeWifiState">Allows the app to connect to and disconnect from Wi-Fi access points and to make changes to device configuration for Wi-Fi networks.</string>
+    <string name="permdesc_createNetworkSockets">Allows the app to create network sockets and use customised network protocols. The browser and other applications provide means to send data to the Internet, so this permission is not required to send data to the Internet.</string>
+    <string name="permdesc_getAccounts">Allows the app to get the list of accounts known by the phone. This may include any accounts created by applications that you have installed.</string>
+    <string name="permdesc_getPackageSize">Allows the app to retrieve its code, data and cache sizes</string>
+    <string name="permdesc_install_shortcut">Allows an application to add Home screen shortcuts without user intervention.</string>
+    <string name="permdesc_nfc">Allows the app to communicate with Near Field Communication (NFC) tags, cards and readers.</string>
+    <string name="permdesc_persistentActivity">Allows the app to make parts of itself persistent in memory. This can limit the memory available to other apps, slowing down the phone.</string>
+    <string name="permdesc_processOutgoingCalls">Allows the app to see the number being dialled during an outgoing call with the option to redirect the call to a different number or abort the call altogether.</string>
+    <string name="permdesc_readCalendar">Allows the app to read all calendar events stored on your phone, including those of friends or co-workers. This may allow the app to share or save your calendar data, regardless of confidentiality or sensitivity.</string>
+    <string name="permdesc_readCallLog">"Allows the app to read your phone's call log, including data about incoming and outgoing calls. This permission allows apps to save your call log data, and malicious apps may share call log data without your knowledge."</string>
+    <string name="permdesc_readCellBroadcasts">Allows the app to read mobile broadcast messages received by your device. Cell broadcast alerts are delivered in some locations to warn you of emergency situations. Malicious apps may interfere with the performance or operation of your device when an emergency mobile broadcast is received.</string>
+    <string name="permdesc_readContacts">"Allows the app to read data about your contacts stored on your phone, including the frequency with which you've called, emailed or communicated in other ways with specific individuals. This permission allows apps to save your contact data, and malicious apps may share contact data without your knowledge."</string>
+    <string name="permdesc_readPhoneState">Allows the app to access the phone features of the device. This permission allows the app to determine the phone number and device IDs, whether a call is active and the remote number connected by a call.</string>
+    <string name="permdesc_readSms">Allows the app to read SMS messages stored on your phone or SIM card. This allows the app to read all SMS messages, regardless of content or confidentiality.</string>
+    <string name="permdesc_receiveMms">Allows the app to receive and process MMS messages. This means that the app could monitor or delete messages sent to your device without showing them to you.</string>
+    <string name="permdesc_receiveSms">Allows the app to receive and process SMS messages. This means that the app could monitor or delete messages sent to your device without showing them to you.</string>
+    <string name="permdesc_recordAudio">Allows the app to record audio with the microphone. This permission allows the app to record audio at any time without your confirmation.</string>
+    <string name="permdesc_sdcardRead">Allows the app to read the contents of your USB storage.</string>
+    <string name="permdesc_sdcardWrite">Allows the app to write to the USB storage.</string>
+    <string name="permdesc_systemAlertWindow">Allows the app to draw on top of other applications or parts of the user interface. They may interfere with your use of the interface in any application, or change what you think you are seeing in other applications.</string>
+    <string name="permdesc_uninstall_shortcut">Allows the application to remove Home screen shortcuts without user intervention.</string>
+    <string name="permdesc_writeCalendar">"Allows the app to add, remove and change events that you can modify on your phone, including those of friends or co-workers. This may allow the app to send messages that appear to come from calendar owners, or modify events without the owners' knowledge."</string>
+    <string name="permdesc_writeContacts">"Allows the app to modify the data about your contacts stored on your phone, including the frequency with which you've called, emailed or communicated in other ways with specific contacts. This permission allows apps to delete contact data."</string>
+    <string name="permdesc_writeGeolocationPermissions">"Allows the app to modify the Browser's geo-location permissions. Malicious apps may use this to allow sending location information to arbitrary websites."</string>
+    <string name="permdesc_writeHistoryBookmarks">"Allows the app to modify the Browser's history or bookmarks stored on your phone. This may allow the app to delete or modify Browser data. Note: this permission may not be enforced by third-party browsers or other applications with web browsing capabilities."</string>
+    <string name="permdesc_writeSyncSettings">Allows an app to modify the sync settings for an account. For example, this can be used to enable syncing of the People app with an account.</string>
+    <string name="permgroupdesc_storage">access photos, media and files on your device</string>
+    <string name="permgrouplab_phone">Telephone</string>
+    <string name="permgrouplab_sensors">Body Sensors</string>
+    <string name="permlab_accessCoarseLocation">approximate location (network-based)</string>
+    <string name="permlab_accessFineLocation">precise location (GPS and network-based)</string>
+    <string name="permlab_accessWifiState">view Wi-Fi connections</string>
+    <string name="permlab_bindCarrierServices">bind to operator services</string>
+    <string name="permlab_bluetooth">Pair with Bluetooth devices</string>
+    <string name="permlab_bluetoothAdmin">Access Bluetooth settings</string>
+    <string name="permlab_bodySensors">body sensors (like heart rate monitors)</string>
+    <string name="permlab_changeWifiMulticastState">allow Wi-Fi Multicast reception</string>
+    <string name="permlab_changeWifiState">Connect and disconnect from Wi-Fi</string>
+    <string name="permlab_changeWimaxState">Change WiMAX state</string>
+    <string name="permlab_createNetworkSockets">full network access</string>
+    <string name="permlab_handoverStatus">Receive Android Beam transfer status</string>
+    <string name="permlab_install_shortcut">Install shortcuts</string>
+    <string name="permlab_manageProfileAndDeviceOwners">Manage profile and device owners</string>
+    <string name="permlab_nfc">control Near-Field Communication</string>
+    <string name="permlab_readCalendar">read calendar events plus confidential information</string>
+    <string name="permlab_readCellBroadcasts">read mobile broadcast messages</string>
+    <string name="permlab_readInstallSessions">Read install sessions</string>
+    <string name="permlab_reorderTasks">re-order running apps</string>
+    <string name="permlab_requestInstallPackages">Request install packages</string>
+    <string name="permlab_route_media_output">Route media output</string>
+    <string name="permlab_sdcardRead">read the contents of your USB storage</string>
+    <string name="permlab_sdcardWrite">modify or delete the contents of your USB storage</string>
+    <string name="permlab_sim_communication">SIM communication</string>
+    <string name="permlab_statusBarService">status bar</string>
+    <string name="permlab_systemAlertWindow">Draw over other apps</string>
+    <string name="permlab_useFingerprint">Use fingerprint hardware</string>
+    <string name="permlab_writeCalendar">"add or modify calendar events and send emails to guests without owners' knowledge"</string>
+    <string name="permlab_writeGeolocationPermissions">Modify Browser geo-location permissions</string>
+    <string name="perms_new_perm_prefix">&lt;font size=12 fgcolor=#ff33b5e5>NEW: &lt;/font></string>
+    <string name="phoneTypeTtyTdd">TTY/TDD</string>
+    <string name="policydesc_expirePassword">Change how frequently the screen lock password, PIN or pattern must be changed.</string>
+    <string name="policydesc_watchLogin">"Monitor the number of incorrect passwords typed when unlocking the screen and lock the phone or erase all the phone's data if too many incorrect passwords are typed."</string>
+    <string name="policylab_expirePassword">Set screen lock password expiry</string>
+    <string name="policylab_watchLogin">Monitor screen-unlock attempts</string>
+    <string name="preposition_for_year">in%s</string>
+    <string name="progress_erasing">Erasing USB storage...</string>
+    <string name="reboot_safemode_confirm">Do you want to reboot into safe mode? This will disable all third-party applications that you have installed. They will be restored when you reboot again.</string>
+    <string name="relationTypeCustom">Customised</string>
+    <string name="replace">Replace...</string>
+    <string name="restr_pin_enter_admin_pin">Enter administrator PIN</string>
+    <string name="restr_pin_enter_old_pin">Current PIN:</string>
+    <string name="ringtone_default_with_actual">Default ringtone (%1$s)</string>
+    <string name="ringtone_unknown">Unknown ringtone</string>
+    <string name="roamingText3">Out of local area</string>
+    <string name="screen_compat_mode_hint">Re-enable this in System settings > Apps > Downloaded.</string>
+    <string name="select_input_method">Change keyboard</string>
+    <string name="select_keyboard_layout_notification_message">Touch to select a keyboard layout.</string>
+    <string name="select_keyboard_layout_notification_title">Select keyboard layout</string>
+    <string name="serviceErased">Erase successful.</string>
+    <string name="setup_autofill">Set up Auto-fill</string>
+    <string name="sha1_fingerprint">SHA-1 fingerprint</string>
+    <string name="sha256_fingerprint">SHA-256 fingerprint</string>
+    <string name="show_ime">Show input method</string>
+    <string name="sipAddressTypeCustom">Customised</string>
+    <string name="sms_control_message">&lt;b>%1$s&lt;/b> is sending a large number of SMS messages. Do you want to allow this app to continue sending messages?</string>
+    <string name="sms_premium_short_code_details">&lt;b>This will cause charges on your mobile account.&lt;/b></string>
+    <string name="sms_short_code_confirm_always_allow">Always Allow*</string>
+    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> would like to send a message to &lt;b>%2$s&lt;/b>.</string>
+    <string name="sms_short_code_details">This &lt;b>may cause charges&lt;/b> on your mobile account.</string>
+    <string name="sms_short_code_remember_undo_instruction">You can change this later in Settings > Apps</string>
+    <string name="smv_application">The app %1$s (process %2$s) has violated its self-enforced Strict Mode policy.</string>
+    <string name="smv_process">The process %1$s has violated its self-enforced StrictMode policy.</string>
+    <string name="ssl_ca_cert_noti_by_administrator">By your work profile administrator</string>
+    <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
+    <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
+    <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
+    <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
+    <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
+    <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
+    <string name="storage_internal">Internal storage</string>
+    <string name="sync_too_many_deletes">Deletion limit exceeded</string>
+    <string name="tethered_notification_message">Touch to set up.</string>
+    <string name="time_of_day" formatted="false">%H:%M:%S</string>
+    <string name="time_picker_decrement_set_am_button">Set a.m.</string>
+    <string name="time_picker_increment_set_pm_button">Set p.m.</string>
+    <string name="tutorial_double_tap_to_zoom_message_short">Touch twice for zoom control</string>
+    <string name="usb_accessory_notification_title">Connected to a USB accessory</string>
+    <string name="usb_charging_notification_title">USB for charging</string>
+    <string name="usb_midi_notification_title">USB for MIDI</string>
+    <string name="usb_mtp_notification_title">USB for file transfer</string>
+    <string name="usb_notification_message">Touch for more options.</string>
+    <string name="usb_ptp_notification_title">USB for photo transfer</string>
+    <string name="user_owner_label">Personal</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth volume</string>
+    <string name="volume_icon_description_incall">Call volume</string>
+    <string name="volume_icon_description_media">Media volume</string>
+    <string name="volume_icon_description_notification">Notification volume</string>
+    <string name="volume_icon_description_ringer">Ringtone volume</string>
+    <string name="vpn_lockdown_config">Touch to configure</string>
+    <string name="vpn_lockdown_error">Always-on VPN error</string>
+    <string name="vpn_text">Touch to manage the network.</string>
+    <string name="vpn_text_long">Connected to %s. Touch to manage the network.</string>
+    <string name="wfcRegErrorTitle">Wi-Fi Calling</string>
+    <string name="wfc_mode_cellular_preferred_summary">Mobile preferred</string>
+    <string name="wfc_mode_wifi_only_summary">Wi-Fi only</string>
+    <string name="wfc_mode_wifi_preferred_summary">Wi-Fi preferred</string>
+    <string name="whichSendApplication">Share with</string>
+    <string name="wifi_available_sign_in">Sign in to a Wi-Fi network</string>
+    <string name="wifi_connect_alert_message">Application %1$s would like to connect to Wi-Fi Network %2$s</string>
+    <string name="wifi_no_internet">Wi-Fi has no Internet access</string>
+    <string name="wifi_no_internet_detailed">Touch for options</string>
+    <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
+    <string name="wifi_p2p_enabled_notification_message">Touch for settings</string>
+    <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct is on</string>
+    <string name="wifi_p2p_failed_message">"Couldn't start Wi-Fi Direct."</string>
+    <string name="wifi_p2p_frequency_conflict_message">"The phone will temporarily disconnect from Wi-Fi while it's connected to %1$s"</string>
+    <string name="wifi_p2p_turnon_message">Start Wi-Fi Direct. This will turn off Wi-Fi client/hotspot.</string>
+    <string name="wifi_watchdog_network_disabled">"Couldn't connect to Wi-Fi"</string>
+    <string name="wifi_watchdog_network_disabled_detailed">" has a poor Internet connection."</string>
+    <string name="work_profile_deleted_description_dpm_wipe">Your work profile is no longer available on this device.</string>
+    <string name="work_profile_deleted_details">The work profile admin app is either missing or corrupted. As a result, your work profile and related data have been deleted. Contact your administrator for assistance.</string>
+    <string name="zen_mode_forever">Until you turn this off</string>
+    <string name="wfcSpnFormat">%s</string>
+</resources>

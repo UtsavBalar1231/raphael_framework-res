@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="media_notification_content_margin_start">19.329987dip</dimen>
+    <dimen name="navigation_bar_height">130.0px</dimen>
+    <dimen name="navigation_bar_height_landscape">130.0px</dimen>
+    <dimen name="navigation_bar_width">130.0px</dimen>
+    <dimen name="notification_action_height">26.669983dip</dimen>
+    <dimen name="notification_action_list_height">26.669983dip</dimen>
+    <dimen name="notification_action_min_width">50.0dip</dimen>
+    <dimen name="notification_action_size">12.0sp</dimen>
+    <dimen name="notification_content_margin_bottom">12.669983dip</dimen>
+    <dimen name="notification_content_margin_end">16.669983dip</dimen>
+    <dimen name="notification_content_margin_start">44.669983dip</dimen>
+    <dimen name="notification_content_margin_top">12.669983dip</dimen>
+    <dimen name="notification_content_picture_margin">41.25dip</dimen>
+    <dimen name="notification_header_expand_icon_size">14.0dip</dimen>
+    <dimen name="notification_header_height">40.0dip</dimen>
+    <dimen name="notification_header_icon_size">16.669983dip</dimen>
+    <dimen name="notification_messaging_spacing">2.3299866dip</dimen>
+    <dimen name="notification_min_content_height">41.0dip</dimen>
+    <dimen name="notification_progress_bar_height">2.669983dip</dimen>
+    <dimen name="notification_progress_margin_top">8.0dip</dimen>
+    <dimen name="notification_right_icon_size">37.329987dip</dimen>
+    <dimen name="notification_subtext_size">10.0sp</dimen>
+    <dimen name="notification_text_margin_top">3.669983dip</dimen>
+    <dimen name="notification_text_size">13.329987sp</dimen>
+    <dimen name="notification_title_text_size">14.669983sp</dimen>
+    <item type="dimen" name="status_bar_height">@dimen/status_bar_height_portrait</item>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="15" android:drawable="@drawable/spot_down_01" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_02" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_03" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_04" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_05" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_06" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_07" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_08" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_09" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_10" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_11" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_12" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_13" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_14" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_15" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_16" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_17" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_18" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_19" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_20" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_21" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_22" />
+    <item android:duration="15" android:drawable="@drawable/spot_down_23" />
+</animation-list>

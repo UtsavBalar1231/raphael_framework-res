@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Začetna</item>
+        <item>Delo</item>
+        <item>Ostalo</item>
+        <item>Po meri</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Služba</item>
+        <item>Drugo</item>
+        <item>Po meri</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Začetna</item>
+        <item>Mobilni</item>
+        <item>Služba</item>
+        <item>Službeni faks</item>
+        <item>Domači faks</item>
+        <item>Pozivnik</item>
+        <item>Drugo</item>
+        <item>Po meri</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Začetna</item>
+        <item>Delo</item>
+        <item>Ostalo</item>
+        <item>Po meri</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Poskusite ponovno</item>
+        <item></item>
+        <item></item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item></item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item>Prehitro! Ne morem prepoznati prstnega odtisa</item>
+        <item>Malo premaknite prst in poskusite ponovno</item>
+        <item>Odmaknite prst s čitalca in poskusite ponovno</item>
+        <item>Prst držite malo dlje na čitalcu</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Premaknite prst počasi</item>
+        <item>Prstni odtis je dodan, uporabite drugi prst</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Začetna</item>
+        <item>Delo</item>
+        <item>Ostalo</item>
+        <item>Prilagojeno</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Za telefoniranje in klicanje preko WiFi-ja, morate zahtevati od mobilnega operaterja da vam vklopi to storitev. Nato ponovno vključite klice v Nastavitvah.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Registrirajte se pri mobilnem operaterju</item>
+    </string-array>
+</resources>

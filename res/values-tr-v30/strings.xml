@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_button_instructional_text">Özellikler arasında geçiş yapmak için erişilebilirlik düğmesine dokunup basılı tutun.</string>
+    <string name="accessibility_button_prompt_text">Erişilebilirlik düğmesine dokunduğunuzda kullanmak için bir özellik seçin:</string>
+    <string name="accessibility_gesture_3finger_instructional_text">Özellikler arasında geçiş yapmak için üç parmakla yukarı kaydırıp basılı tutun.</string>
+    <string name="accessibility_gesture_3finger_prompt_text">Erişilebilirlik hareketiyle (üç parmakla ekranın altından yukarı kaydırma) kullanılacak bir özellik seçin:</string>
+    <string name="accessibility_gesture_instructional_text">Özellikler arasında geçiş yapmak için iki parmakla yukarı kaydırıp basılı tutun.</string>
+    <string name="accessibility_gesture_prompt_text">Erişilebilirlik hareketiyle (iki parmakla ekranın altından yukarı kaydırma) kullanılacak bir özellik seçin:</string>
+    <string name="accessibility_shortcut_disabling_service">Ses tuşlarını basılı tutun. %1$s kapatıldı.</string>
+    <string name="accessibility_shortcut_enabling_service">Ses tuşlarını basılı tutun. %1$s açıldı.</string>
+    <string name="accessibility_shortcut_spoken_feedback">%1$s hizmetini kullanmak için her iki ses tuşunu basılı tutun</string>
+    <string name="accessibility_shortcut_toogle_warning">Kısayol açıkken ses düğmelerinin ikisini birden 3 saniyeliğine basılı tutmanız bir erişilebilirlik özelliğini başlatır.</string>
+    <string name="battery_saver_description">"Pil ömrünü uzatmak için Pil Tasarrufu:
+  
+•Koyu temayı açar
+•Arka plan etkinliğini, bazı görsel efektleri ve \"Ok Google\" gibi diğer özellikleri kapatır veya kısıtlar"</string>
+    <string name="battery_saver_description_with_learn_more">"Pil ömrünü uzatmak için Pil Tasarrufu:
+  
+•Koyu temayı açar
+•Arka plan etkinliğini, bazı görsel efektleri ve \"Ok Google\" gibi diğer özellikleri kapatır veya kısıtlar
+
+&lt;annotation id=url>Daha fazla bilgi&lt;/annotation>"</string>
+    <string name="chooser_no_direct_share_targets">Paylaşmak için önerilen kullanıcı yok</string>
+    <string name="global_action_restart">Yeniden başlat</string>
+    <string name="lock_to_app_toast">Bu ekranın sabitlemesini kaldırmak için Ana Sayfa ve Güç düğmesini aynı anda basılı tutun.</string>
+    <string name="lock_to_app_toast_accessible">Bu ekranın sabitlemesini kaldırmak için Ana Sayfa ve Güç düğmesini aynı anda basılı tutun.</string>
+    <string name="permdesc_accessBackgroundLocation">Bu uygulama, uygulama kullanılmıyorken bile konum bilgisine her zaman erişebilir.</string>
+    <string name="permdesc_accessCoarseLocation">Bu uygulama, uygulama kullanılırken konum hizmetlerinden yaklaşık konum bilginizi alabilir. Uygulamanın konum bilginizi alabilmesi için cihazınızda konum hizmetlerinin açık olması gerekir.</string>
+    <string name="permdesc_accessFineLocation">Bu uygulama, uygulama kullanılırken konum hizmetlerinden kesin konum bilginizi alabilir. Uygulamanın konum bilginizi alabilmesi için cihazınızda konum hizmetlerinin açık olması gerekir. Bu durum, pil kullanımını artırabilir.</string>
+    <string name="permdesc_readContacts">Uygulamaya telefonunuzda depolanan kişilerinizle ilgili verileri okuma izni verir. Uygulamalar ayrıca telefonunuzda kişi oluşturan hesaplara da erişebilir. Bu, yüklediğiniz uygulamalar tarafından oluşturulan hesapları içerebilir. Bu izin, uygulamanın kişi verilerinizi kaydetmesine olanak sağlar ve kötü amaçlı uygulamalar kişi verilerini sizden habersiz paylaşabilir.</string>
+    <string name="permgrouplab_storage">Dosyalar ve medya</string>
+    <string name="permlab_accessCoarseLocation">yalnızca ön planda yaklaşık konuma erişme</string>
+    <string name="tethered_notification_title">İnternet paylaşımı veya paylaşım noktası etkin</string>
+    <string name="usb_unsupported_audio_accessory_message">Takılan cihaz bu telefonla uyumlu değil. Daha fazla bilgi edinmek için dokunun.</string>
+    <string name="usb_unsupported_audio_accessory_title">Analog ses aksesuarı algılandı</string>
+</resources>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>خانه</item>
+        <item>محل کار</item>
+        <item>سایر موارد</item>
+        <item>سفارشی</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>محل کار</item>
+        <item>سایر موارد</item>
+        <item>سفارشی</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>خانه</item>
+        <item>تلفن همراه</item>
+        <item>محل کار</item>
+        <item>نمابر محل کار</item>
+        <item>نمابر خانه</item>
+        <item>پی‌جو</item>
+        <item>سایر موارد</item>
+        <item>سفارشی</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>خانه</item>
+        <item>محل کار</item>
+        <item>سایر موارد</item>
+        <item>سفارشی</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Try again</item>
+        <item></item>
+        <item></item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
+        <item></item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
+        <item>"Too fast! Couldn't recognize fingerprint"</item>
+        <item>Move your finger a bit and try again</item>
+        <item>Lift your finger and put it back on the scanner again</item>
+        <item>Keep your finger on the scanner a bit longer</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Move your finger slightly</item>
+        <item>This fingerprint has been added, use a different finger</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>خانه</item>
+        <item>محل کار</item>
+        <item>سایر موارد</item>
+        <item>سفارشی</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>32427908</item>
+        <item>53688046</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>4</item>
+    </integer-array>
+    <string-array name="networkAttributes">
+        <item>wifi,1,1,1,-1,true</item>
+        <item>mobile,0,0,0,-1,true</item>
+        <item>mobile_mms,2,0,4,300000,true</item>
+        <item>mobile_supl,3,0,2,300000,true</item>
+        <item>mobile_dun,4,0,2,300000,true</item>
+        <item>mobile_hipri,5,0,3,300000,true</item>
+        <item>mobile_fota,10,0,2,300000,true</item>
+        <item>mobile_ims,11,0,2,300000,true</item>
+        <item>mobile_cbs,12,0,2,300000,true</item>
+        <item>bluetooth,7,7,2,-1,true</item>
+        <item>ethernet,9,9,4,-1,true</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>داده تلفن همراه</item>
+        <item>Wi-Fi</item>
+        <item>بلوتوث</item>
+        <item>اترنت</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="networks_not_clear_data">
+        <item>71203</item>
+        <item>71606</item>
+        <item>71610</item>
+        <item>732101</item>
+    </string-array>
+    <string-array name="radioAttributes">
+        <item>1,1</item>
+        <item>0,1</item>
+        <item>7,1</item>
+        <item>9,1</item>
+    </string-array>
+    <string-array name="required_apps_managed_device">
+        <item>com.android.settings</item>
+        <item>com.android.contacts</item>
+        <item>com.android.dialer</item>
+        <item>com.android.stk</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.android.documentsui</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.android.thememanager</item>
+    </string-array>
+    <string-array name="required_apps_managed_profile">
+        <item>com.android.contacts</item>
+        <item>com.android.settings</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.android.documentsui</item>
+    </string-array>
+    <string-array name="required_apps_managed_user">
+        <item>com.android.settings</item>
+        <item>com.android.contacts</item>
+        <item>com.android.dialer</item>
+        <item>com.android.stk</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.android.documentsui</item>
+    </string-array>
+    <string-array name="target_activity">
+        <item>org.iqiyi.video.activity.PlayerActivity</item>
+        <item>com.tencent.qqlive.ona.activity.VideoDetailActivity</item>
+        <item>com.youku.ui.activity.DetailActivity</item>
+        <item>tv.danmaku.bili.ui.video.VideoDetailsActivity</item>
+    </string-array>
+    <string-array name="update_brightness_configuration_white_list">
+        <item>com.tencent.tmgp.pubgmhd</item>
+        <item>com.tencent.tmgp.sgame</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>‏برای برقراری تماس و ارسال پیام ازطریق Wi-Fi، ابتدا از شرکت مخابراتی خود بخواهید این سرویس را تنظیم کند. سپس در «تنظیمات»۷ دوباره «تماس ازطریق Wi-Fi» را روشن کنید. (کد خطا: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>‏مشکل هنگام ثبت تماس ازطریق Wi‑Fi با شرکت مخابراتی: %1$s</item>
+    </string-array>
+</resources>

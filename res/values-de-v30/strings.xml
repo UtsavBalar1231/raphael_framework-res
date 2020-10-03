@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_button_instructional_text">Wenn du zwischen den Funktionen wechseln möchtest, halte die Schaltfläche \"Bedienungshilfen\" gedrückt.</string>
+    <string name="accessibility_button_prompt_text">Wähle eine Funktion aus, die verwendet wird, wenn du auf die Schaltfläche \"Bedienungshilfen\" tippst:</string>
+    <string name="accessibility_gesture_3finger_instructional_text">Wenn du zwischen den Funktionen wechseln möchtest, wische mit drei Fingern nach oben und halte.</string>
+    <string name="accessibility_gesture_3finger_prompt_text">Wähle eine Funktion aus, die mit der Touch-Geste für die Bedienungshilfen verwendet werden soll (mit drei Fingern vom unteren Bildschirmrand nach oben wischen):</string>
+    <string name="accessibility_gesture_instructional_text">Wenn du zwischen den Funktionen wechseln möchtest, wische mit zwei Fingern nach oben und halte.</string>
+    <string name="accessibility_gesture_prompt_text">Wähle die Funktion aus, die mit der Touch-Geste für die Bedienungshilfen verwendet werden soll (mit zwei Fingern vom unteren Bildschirmrand nach oben wischen):</string>
+    <string name="accessibility_shortcut_disabling_service">Lautstärketasten wurden gedrückt gehalten. %1$s ist deaktiviert.</string>
+    <string name="accessibility_shortcut_enabling_service">Lautstärketasten wurden gedrückt gehalten. %1$s ist aktiviert.</string>
+    <string name="accessibility_shortcut_spoken_feedback">Halten Sie beide Lautstärketasten drei Sekunden lang gedrückt, um %1$s zu verwenden</string>
+    <string name="accessibility_shortcut_toogle_warning">Wenn die Verknüpfung aktiviert ist, kannst du die beiden Lautstärketasten drei Sekunden lang gedrückt halten, um eine Bedienungshilfe zu starten.</string>
+    <string name="chooser_no_direct_share_targets">Keine empfohlenen Empfänger</string>
+    <string name="global_action_restart">Neustart</string>
+    <string name="permdesc_accessBackgroundLocation">Diese App kann jederzeit auf den Standort zugreifen, auch wenn sie gerade nicht verwendet wird.</string>
+    <string name="permdesc_accessCoarseLocation">Wenn diese App verwendet wird, kann sie über die Standortdienste deinen ungefähren Standort ermitteln. Damit das funktioniert, müssen die Standortdienste auf deinem Gerät aktiviert sein.</string>
+    <string name="permdesc_accessFineLocation">Wenn diese App verwendet wird, kann sie über die Standortdienste deinen genauen Standort ermitteln. Damit das funktioniert, müssen die Standortdienste auf deinem Gerät aktiviert sein. Das kann den Akkuverbrauch erhöhen.</string>
+    <string name="permdesc_readContacts">Ermöglicht der App, Daten zu den auf deinem Smartphone gespeicherten Kontakten zu lesen. Darüber hinaus haben Apps Zugriff auf die Konten auf deinem Smartphone, über die Kontakte erstellt wurden. Dabei kann es sich auch um Konten handeln, die von installierten Apps erstellt wurden. Diese Berechtigung erlaubt Apps, deine Kontaktdaten zu speichern. Schädliche Apps könnten dadurch ohne dein Wissen Kontaktdaten teilen.</string>
+    <string name="permgrouplab_storage">Dateien und Medien</string>
+    <string name="permlab_accessCoarseLocation">Nur bei Ausführung im Vordergrund auf den ungefähren Standort zugreifen</string>
+    <string name="tethered_notification_title">Tethering oder Hotspot aktiv</string>
+    <string name="usb_unsupported_audio_accessory_message">Das angeschlossene Gerät ist nicht mit diesem Smartphone kompatibel. Für weitere Informationen tippen.</string>
+    <string name="usb_unsupported_audio_accessory_title">Analoges Audiozubehör erkannt</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth-Lautstärke</string>
+    <string name="volume_icon_description_incall">Anruflautstärke</string>
+    <string name="volume_icon_description_media">Medienlautstärke</string>
+    <string name="volume_icon_description_notification">Benachrichtigungslautstärke</string>
+    <string name="volume_icon_description_ringer">Klingeltonlautstärke</string>
+</resources>

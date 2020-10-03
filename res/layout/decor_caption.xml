@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.internal.widget.MiuiDecorCaptionView android:orientation="vertical" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/top_caption" android:background="@color/transparent" android:focusable="false" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="28.359985dip" android:minHeight="10.0dip">
+        <View android:layout_gravity="center" android:id="@id/move_region" android:background="@color/transparent" android:layout_width="244.53998dip" android:layout_height="28.359985dip" android:minHeight="10.0dip" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/bottom_caption" android:background="@color/transparent" android:focusable="false" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="37.819977dip" />
+</com.android.internal.widget.MiuiDecorCaptionView>
